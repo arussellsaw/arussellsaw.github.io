@@ -1,6 +1,6 @@
 # Site settings
 title: arussellsaw.github.io
-email: alex@switchconcepts.com
+email: 
 description: > # tech and twattery
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://arussellsaw.github.io" # the base hostname & protocol for your site
