@@ -7,7 +7,7 @@ relative_permalinks: true
 # Setup
 title:               arussellsaw.github.io
 tagline:             witty tagline
-url:                 http://arussellsaw.github.io
+url:                 http://arussellsaw.github.io/
 paginate:            1
 baseurl:             ""
 
@@ -21,7 +21,7 @@ sass:
 # About/contact
 author:
   name:              Alex Russell-Saw
-  url:               https://github.com/arussellsaw
+  url:               https://github.com/arussellsaw/
   email:             alexrussellsaw@gmail.com
 
 # Custom vars
