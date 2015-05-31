@@ -11,8 +11,8 @@ I've been working on a [caching proxy](http://github.com/arussellsaw/postcache)
 in my free time, for caching [KairosDB](http://github.com/kairosdb/kairosdb)
 when used with our [Grafana](http://github.com/grafana/grafana) dashboards. In
 working on this project, i had a thought that it would be great if i could pull
-our some metrics in order to track performance and usage of the proxy, and thanks
-to Go's fantastic packaging model, i had the motivation to make a dedicated
+out some metrics in order to track performance and usage of the proxy, and thanks
+to Go's fantastic packaging/imports model, i had the motivation to make a dedicated
 library, so that my future projects, and hopefully others can have an easy workflow
 for metrics and alerting.
 
