@@ -55,7 +55,7 @@ manager that culls old stats, this allows you to provide 'per minute' metrics,
 meaning it's very easy to have metrics that work well in things like Grafana.
 
 
-![grafana-dashboard](https://i.imgur.com/KNpGgoO.jpg)
+[![grafana-dashboard](https://i.imgur.com/KNpGgoO.jpg)](https://i.imgur.com/KNpGgoO.jpg)
 
 
 Please email me or get in contact via twitter if you end up using the library, i'd
